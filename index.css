@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    position: absolute;
+    width: 800px;
+    height: 385px;
+    background: #1B244A; 
+    font-weight: bold;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    font-family: 'Cursed Timer ULiL';
+    font-size: 50px;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#home-score-btn-1 {
+    background: #1B244A; 
+    border:white;
+    color: white;
+    font-family: 'Cursed Timer ULiL';
+    box-sizing: border-box;
+    width: 45px;
+    height: 45px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px; 
+}
+#home-score-btn-2 {
+    background: #1B244A; 
+    border:white;
+    color: white;
+    font-family: 'Cursed Timer ULiL';
+    box-sizing: border-box;
+    width: 45px;
+    height: 45px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px; 
+}
+#home-score-btn-3 {
+    background: #1B244A; 
+    border:white;
+    color: white;
+    font-family: 'Cursed Timer ULiL';
+    box-sizing: border-box;
+    width: 45px;
+    height: 45px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px; 
+}
+
+#home-score{
+width: 155px;
+height: 120px;
+background: #080001;
+border-radius: 5px;
+color: #F94F6D;
+align-content: center;
+font-size: 100px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+
+}
+#guest-score{
+width: 155px;
+height: 120px;
+background: #080001;
+border-radius: 5px;
+color: #F94F6D;
+align-content: center;
+font-size: 100px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+}
+
+#guest-score-btn-1 {
+    background: #1B244A; 
+    border:white;
+    color: white;
+    font-family: 'Cursed Timer ULiL';
+    box-sizing: border-box;
+    width: 45px;
+    height: 45px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px; 
+}
+#guest-score-btn-2 {
+    background: #1B244A; 
+    border:white;
+    color: white;
+    font-family: 'Cursed Timer ULiL';
+    box-sizing: border-box;
+    width: 45px;
+    height: 45px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px; 
+}
+#guest-score-btn-3 {
+    background: #1B244A; 
+    border:white;
+    color: white;
+    font-family: 'Cursed Timer ULiL';
+    box-sizing: border-box;
+    width: 45px;
+    height: 45px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px; 
+}
+
+#reset-game {
+    background: #1B244A; 
+    border:white;
+    color: white;
+    font-family: 'Cursed Timer ULiL';
+    box-sizing: border-box;
+    width: 100px;
+    height: 50px;
+    border: 2px solid #9AABD8;
+    border-radius: 5px; 
+    align-content: center;
+
+}
+
+
